@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello, World! My name is Chenghan Wang, AKA 王成晗. You can call me by my English name Kevin. 
+Currently, I am an Research Assistant from [the EDA Center](http://www.ime.cas.cn/eda/), [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.ac.cn/). My research interest is Electronic Design Automation (EDA) of advanced packaging, particularly multiphysics simulation and physical design.
+Prior to this RA job, I was a Master student (2021-2024) in Circuits and Systems, superviosed by [Prof. Qinzhi Xu](https://people.ucas.ac.cn/~0066358). In 2017-2021, I was a Undergraduate student in Electronic Science and Technology from [the School of Information Science and Engineering](https://siee.hitwh.edu.cn/), [Harbin Institute of Technology at Weihai](https://www.hitwh.edu.cn/).
 
 A data-driven personal website
 ======

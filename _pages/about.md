@@ -21,7 +21,7 @@ Education
 
 Experience
 ======
-- EDA Center, Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS)
+- Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS)
   - Role: Research Assistant (RA)
   - Supervisor: [Prof. Qinzhi Xu](https://people.ucas.ac.cn/~0066358)
   - Period: Jul. 2024 - Jun. 2025

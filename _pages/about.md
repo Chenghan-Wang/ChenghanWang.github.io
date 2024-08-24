@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-About 
+
+#About 
 
 Hello, World! 
 

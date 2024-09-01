@@ -30,10 +30,10 @@ Experience
 Publications
 ======
 **Journals**:
-- [J1] X Ma, Q Xu, **C Wang**, H Cao, J Liu, D Zhang, Z Li, "An Electrical-Thermal Co-Simulation Model of Chiplet Heterogeneous Integration Systems," ***IEEE Transactions on Very Large Scale Integration (VLSI) Systems***, Early Access, 2024.
-- [J2] **C Wang**, Q Xu, C Nie, H Cao, J Liu, D Zhang, Z Li, "A Multiscale Anisotropic Thermal Model of Chiplet Heterogeneous Integration System," ***IEEE Transactions on Very Large Scale Integration (VLSI) Systems***, vol. 32, no. 1, pp. 178 - 189, Jan. 2024.
-- [J3] **C Wang**, Q Xu, C Nie, H Cao, J Liu, Z Li, "An efficient thermal model of chiplet heterogeneous integration system for steady-state temperature prediction," ***Microelectronics Reliability***," vol. 146, art no. 115006, Jul. 2023.
-- [J4] C Nie, Q Xu, **C Wang**, H Cao, J Liu, Z Li, "Efficient transient thermal analysis of chiplet heterogeneous integration," ***Applied Thermal Engineering***, vol. 229, art no. 120609, Jul. 2024.
+- [J4] X Ma, Q Xu, **C Wang**, H Cao, J Liu, D Zhang, Z Li, "An Electrical-Thermal Co-Simulation Model of Chiplet Heterogeneous Integration Systems," ***IEEE Transactions on Very Large Scale Integration (VLSI) Systems***, Early Access, 2024.
+- [J3] **C Wang**, Q Xu, C Nie, H Cao, J Liu, D Zhang, Z Li, "A Multiscale Anisotropic Thermal Model of Chiplet Heterogeneous Integration System," ***IEEE Transactions on Very Large Scale Integration (VLSI) Systems***, vol. 32, no. 1, pp. 178 - 189, Jan. 2024.
+- [J2] **C Wang**, Q Xu, C Nie, H Cao, J Liu, Z Li, "An efficient thermal model of chiplet heterogeneous integration system for steady-state temperature prediction," ***Microelectronics Reliability***," vol. 146, art no. 115006, Jul. 2023.
+- [J1] C Nie, Q Xu, **C Wang**, H Cao, J Liu, Z Li, "Efficient transient thermal analysis of chiplet heterogeneous integration," ***Applied Thermal Engineering***, vol. 229, art no. 120609, Jul. 2024.
 
 **Conferences**:
 Still working on my first conference paper!

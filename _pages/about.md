@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
-
+=====
 Biography
 ======
 Hello, World! 

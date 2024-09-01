@@ -14,19 +14,19 @@ Hello, World!
 
 My name is Chenghan (Kevin) Wang, also known as 王成晗. Currently, I am an Research Assistant from [the EDA Center](http://www.ime.cas.cn/eda/), [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.ac.cn/). My research interest is **Electronic Design Automation (EDA) of advanced packaging, especially multiphysics simulation and physical design**.
 
-Education
+Education Experience
 ======
 - Master of Engineering, EDA Center, Institute of Microelectronics of the Chinese Academy of Sciences (IMEACS), Sep. 2021 - Jun. 2024.
 - Bachelor of Engineering, School of Information Science and Engineering, Harbin Institute of Technology at Weihai, Sep. 2017 - Jun. 2021.
 
-Experience
+Work Experiencce
 ======
 - Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS)
   - Role: Research Assistant (RA)
   - Supervisor: [Prof. Qinzhi Xu](https://people.ucas.ac.cn/~0066358)
   - Period: Jul. 2024 - Jun. 2025
 
-Publications
+Academic Publications
 ======
 **Journals**:
 - [J4] X. Ma, Q. Xu, **C. Wang**, H. Cao, J. Liu, D. Zhang, Z. Li, "An Electrical-Thermal Co-Simulation Model of Chiplet Heterogeneous Integration Systems," ***IEEE Transactions on Very Large Scale Integration (VLSI) Systems***, Early Access, 2024. Click [here](https://ieeexplore.ieee.org/abstract/document/10614207)
@@ -41,4 +41,4 @@ Languages
 ======
 - Mandarin Chinese: Native
 - English: Fluent
-- Cantonese: Beginner
+- Cantonese: Novice

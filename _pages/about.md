@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chenghan Wang"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-Biography
-======
 Hello, World! 
 
 My name is Chenghan (Kevin) Wang, also known as 王成晗. Currently, I am an Research Assistant from [the EDA Center](http://www.ime.cas.cn/eda/), [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.ac.cn/). My research interest is **Electronic Design Automation (EDA) of advanced packaging, especially multiphysics simulation and physical design**.

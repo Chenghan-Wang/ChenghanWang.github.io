@@ -16,7 +16,7 @@ Education Experience
 - Master of Engineering, EDA Center, Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS), Sep. 2021 - Jun. 2024.
 - Bachelor of Engineering, School of Information Science and Engineering, Harbin Institute of Technology at Weihai, Sep. 2017 - Jun. 2021.
 
-Work Experiencce
+Work Experience
 ======
 - Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS)
   - Role: Research Assistant (RA)

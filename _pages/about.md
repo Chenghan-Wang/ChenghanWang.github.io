@@ -33,7 +33,7 @@ Academic Publications
 - [J1] C. Nie, Q. Xu\*, **C. Wang**, H. Cao, J. Liu, Z. Li, "Efficient transient thermal analysis of chiplet heterogeneous integration," ***Applied Thermal Engineering***, Jul 2023. Click [here](https://www.sciencedirect.com/science/article/abs/pii/S1359431123006385)
 
 **Conference Papers**:
-Still working on my first conference paper!
+- [C0] Still working on it!!!
 
 Languages
 ======

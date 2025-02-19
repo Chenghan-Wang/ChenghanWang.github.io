@@ -14,7 +14,7 @@ My name is Chenghan (Kevin) Wang (b.1998, Jinan, Shandong, PRC), also known as ç
 Education Experience
 ======
 - Master of Engineering, EDA Center, Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS), Sep. 2021 - Jun. 2024.
-- Bachelor of Engineering, School of Information Science and Engineering, Harbin Institute of Technology at Weihai, Sep. 2017 - Jun. 2021.
+- Bachelor of Engineering, School of Information Science and Engineering, Harbin Institute of Technology at Weihai (HITWH), Sep. 2017 - Jun. 2021.
 
 Work Experience
 ======

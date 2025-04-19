@@ -26,6 +26,7 @@ Work Experience
 Academic Publications
 ======
 **Journal Papers**:
+- [J6] H. Cao, Q. Xu\*, J. Liu, Z. Li, **C. Wang**, X. Ma, K. An, D. Zhang, S. Sun, "Two-Dimensional Thermal-Induced Warpage Prediction for Multi-Chiplet Heterogeneous Integration System in Advanced Packaging," ***IEEE Transactions on Components, Packing, and Manufacturing Technology***, Apr 2025. Click [here](https://ieeexplore.ieee.org/document/10970016)
 - [J5] Q. Xu\*, **C. Wang(the First Student Author)**, Z. Li\*, D. Zhang, X. Ma, H. Cao, J. Liu, "A Wafer-Scale Heterogeneous Integration Thermal Simulator," ***Applied Thermal Engineering***, Apr 2025. Click [here](https://www.sciencedirect.com/science/article/abs/pii/S135943112500050X#preview-section-references)
 - [J4] X. Ma, Q. Xu\*, **C. Wang**, H. Cao, J. Liu, D. Zhang, Z. Li\*, "An Electrical-Thermal Co-Simulation Model of Chiplet Heterogeneous Integration Systems," ***IEEE Transactions on Very Large Scale Integration (VLSI) Systems***, Oct 2024. Click [here](https://ieeexplore.ieee.org/abstract/document/10614207)
 - [J3] **C. Wang**, Q. Xu\*, C. Nie, H. Cao, J. Liu, D. Zhang, Z. Li, "A Multiscale Anisotropic Thermal Model of Chiplet Heterogeneous Integration System," ***IEEE Transactions on Very Large Scale Integration (VLSI) Systems***, Jan 2024. Click [here](https://ieeexplore.ieee.org/abstract/document/10287686)

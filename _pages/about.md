@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, World! 
 
-My name is Chenghan (Kevin) Wang (b.1998, Jinan, Shandong, PRC), also known as 王成晗. Currently, I am an Research Assistant from [the EDA Center](http://www.ime.cas.cn/eda/), [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.ac.cn/). My research interest is **Electronic Design Automation (EDA) of advanced 2.5/3D packaging, especially multiphysics simulation**.
+My name is Chenghan (Kevin) Wang (b.1998, Jinan, Shandong, PRC), also known as 王成晗. Currently, I am an Assistant Engineer from [the EDA Center](http://www.ime.cas.cn/eda/), [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.ac.cn/). My research interest is **Electronic Design Automation (EDA) of advanced 2.5/3D packaging, especially multiphysics simulation**.
 
 Education Experience
 ======
@@ -19,7 +19,7 @@ Education Experience
 Work Experience
 ======
 - Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS)
-  - Role: Research Assistant (RA)
+  - Role: Assistant Engineer
   - Supervisor: [Prof. Qinzhi Xu](https://people.ucas.ac.cn/~0066358)
   - Period: Jul. 2024 - Jun. 2025
 

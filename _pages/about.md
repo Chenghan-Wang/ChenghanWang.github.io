@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, World! 
 
-My name is Chenghan (Kevin) Wang (b.1998, Jinan, Shandong, PRC), also known as 王成晗. Currently, I am an Assistant Engineer from [the EDA Center](http://www.ime.cas.cn/eda/), [Institute of Microelectronics of the Chinese Academy of Sciences](http://www.ime.ac.cn/). I am expected to start my phd study at the [Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk/), [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), under the supervision of [Prof. Tsung-yi Ho](https://tsungyiho.github.io/). My research interest is **Electronic Design Automation (EDA) of advanced 2.5/3D packaging, especially multiphysics simulation**. 
+My name is Chenghan (Kevin) Wang (b.1998, Jinan, Shandong, PRC), also known as 王成晗. I am expected to start my phd study at the [Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk/), [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), under the supervision of [Prof. Tsung-yi Ho](https://tsungyiho.github.io/). My research interest is **Electronic Design Automation (EDA) of advanced 2.5/3D packaging, especially multiphysics simulation, numerical computing, and hardware acceleration**. 
 
 Education Experience
 ======

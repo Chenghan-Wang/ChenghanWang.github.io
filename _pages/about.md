@@ -14,8 +14,8 @@ My name is Chenghan (Kevin) Wang (b.1998, Jinan, Shandong, PRC), also known as ç
 Education Experience
 ======
 - PhD, Department of Computer Science and Engineering (CSE), the Chinese University of Hong Kong (CUHK), Aug. 2025 - , supervised by [Prof. Tsung-yi Ho](https://tsungyiho.github.io/)
-- Master of Engineering, EDA Center, Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS), Sep. 2021 - Jun. 2024, supervised by [Prof. Qinzhi Xu](https://people.ucas.ac.cn/~0066358)
-- Bachelor of Engineering, School of Information Science and Engineering, Harbin Institute of Technology at Weihai (HITWH), Sep. 2017 - Jun. 2021.
+- M.Eng, EDA Center, Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS), Sep. 2021 - Jun. 2024, supervised by [Prof. Qinzhi Xu](https://people.ucas.ac.cn/~0066358)
+- B.Eng, School of Information Science and Engineering, Harbin Institute of Technology at Weihai (HITWH), Sep. 2017 - Jun. 2021.
 
 Work Experience
 ======

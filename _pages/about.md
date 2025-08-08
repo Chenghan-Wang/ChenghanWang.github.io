@@ -26,7 +26,7 @@ Work Experience
 Academic Publications
 ======
 **Journal Papers**:
-- [J7] K. An, Q. Xu\*, H. He, X. Ma, **C. Wang**, H. Cao, J. Liu, D. Zhang, T. Sun, Z. Li, "Transient Thermal Model of Advanced Nanotransistors: A Case Study of CFET," ***IEEE TED***, Jun 2025. Click [here](https://ieeexplore.ieee.org/document/11024240)
+- [J7] K. An, Q. Xu\*, H. He, X. Ma, **C. Wang**, H. Cao, J. Liu, D. Zhang, T. Sun, Z. Li, "Transient Thermal Model of Advanced Nanotransistors: A Case Study of CFET," ***IEEE TED***, Aug 2025. Click [here](https://ieeexplore.ieee.org/document/11024240)
 - [J6] H. Cao\*, Q. Xu\*, J. Liu, Z. Li, **C. Wang**, X. Ma, K. An, D. Zhang, T. Sun, "Two-Dimensional Thermal-Induced Warpage Prediction for Multi-Chiplet Heterogeneous Integration System in Advanced Packaging," ***IEEE TCPMT***, Apr 2025. Click [here](https://ieeexplore.ieee.org/document/10970016)
 - [J5] Q. Xu\*, **C. Wang(the First Student Author)**, Z. Li\*, D. Zhang, X. Ma, H. Cao, J. Liu, "A Wafer-Scale Heterogeneous Integration Thermal Simulator," ***Applied Thermal Engineering***, Apr 2025. Click [here](https://www.sciencedirect.com/science/article/abs/pii/S135943112500050X#preview-section-references)
 - [J4] X. Ma, Q. Xu\*, **C. Wang**, H. Cao, J. Liu, D. Zhang, Z. Li\*, "An Electrical-Thermal Co-Simulation Model of Chiplet Heterogeneous Integration Systems," ***IEEE TVLSI***, Oct 2024. Click [here](https://ieeexplore.ieee.org/abstract/document/10614207)

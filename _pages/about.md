@@ -35,7 +35,7 @@ Academic Publications
 - [J1] C. Nie, Q. Xu\*, **C. Wang**, H. Cao, J. Liu, Z. Li, "Efficient transient thermal analysis of chiplet heterogeneous integration," ***Applied Thermal Engineering***, Jul 2023. Click [here](https://www.sciencedirect.com/science/article/abs/pii/S1359431123006385)
 
 **Conference Papers**:
-- [C1] X. Ma, Q. Xu\*, Z. Sun, **C. Wang**, H. He, K. An, J. Liu, H. Cao, D. Zhang, T. Sun, Z. Li, "An Analytical Electrical-Thermal Coupling Model for TSV with Non-Uniform Substrate Temperature," ***ISEDA***, May 2025.
+- [C1] X. Ma, Q. Xu\*, Z. Sun, **C. Wang**, H. He, K. An, J. Liu, H. Cao, D. Zhang, T. Sun, Z. Li, "An Analytical Electrical-Thermal Coupling Model for TSV with Non-Uniform Substrate Temperature," ***ISEDA***, May 2025. Click [here](https://ieeexplore.ieee.org/document/11100728)
 
 Languages
 ======

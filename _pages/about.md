@@ -9,11 +9,11 @@ redirect_from:
 
 Hello, World! 
 
-My name is Chenghan (Kevin) Wang (b.1998, Jinan, Shandong, PRC), also known as 王成晗. I am a PhD student at the [Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk/), [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), under the supervision of [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/) and [Prof. Rongmei Chen](https://crm-prcc.github.io/english/). My research interest is **Electronic Design Automation (EDA) of heterogeneous integration 2.5D/3D ICs, especially multiphysics simulation and numerical computing**. 
+My name is Chenghan (Kevin) Wang (b.1998, Jinan, Shandong, PRC), also known as 王成晗. I am a PhD student at the [Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk/), [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), under the supervision of [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/). My research interest is **Electronic Design Automation (EDA) of heterogeneous integration 2.5D/3D ICs, especially multiphysics simulation and numerical computing**. 
 
 Education Experience
 ======
-- PhD, Department of Computer Science and Engineering (CSE), the Chinese University of Hong Kong (CUHK), Aug. 2025 - Present, supervised by [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/) and [Prof. Rongmei Chen](https://crm-prcc.github.io/english/).
+- PhD, Department of Computer Science and Engineering (CSE), the Chinese University of Hong Kong (CUHK), Aug. 2025 - Present, supervised by [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/).
 - M.Eng, EDA Center, Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS), Sep. 2021 - Jun. 2024, supervised by [Prof. Qinzhi Xu](https://people.ucas.ac.cn/~0066358)
 - B.Eng, School of Information Science and Engineering, Harbin Institute of Technology at Weihai (HITWH), Sep. 2017 - Jun. 2021.
 

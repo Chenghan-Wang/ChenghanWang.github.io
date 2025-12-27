@@ -41,8 +41,8 @@ Academic Publications
 
 Teaching Assistant
 ======
+- Single Variable Calculus for Engineers, ENGG1225G, Spring 2026.
 - Discrete Mathematics for Engineers, ENGG2440A, Fall 2025.
-- Single Variable Calculus for Engineers, ENGG1225G, Spring, 2026.
 
 Skills
 ======

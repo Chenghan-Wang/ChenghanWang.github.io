@@ -39,10 +39,10 @@ Academic Publications
 - [C2] **C. Wang**, Z. Zhuang\*, K. Zhu, D. Huang, L. Costero, R. Chen\*, D. Atienza, T.-Y. Ho, "ETLA-3D: Equivalent Thin Layer Aggregation based Thermal FEM for Hybrid Bonding F2F 3D ICs," ***DATE***, Apr 2026.
 - [C1] X. Ma, Q. Xu\*, Z. Sun, **C. Wang**, H. He, K. An, J. Liu, H. Cao, D. Zhang, T. Sun, Z. Li, "An Analytical Electrical-Thermal Coupling Model for TSV with Non-Uniform Substrate Temperature," ***ISEDA***, May 2025. Click [here](https://ieeexplore.ieee.org/document/11100728)
 
-Teaching Assistance
+Teaching Assistant
 ======
-- Discrete Mathematics for Engineers, ENGG2440A.
-- Single Variable Calculus for Engineers, ENGG1225G.
+- Discrete Mathematics for Engineers, ENGG2440A, Fall 2025.
+- Single Variable Calculus for Engineers, ENGG1225G, Spring, 2026.
 
 Skills
 ======

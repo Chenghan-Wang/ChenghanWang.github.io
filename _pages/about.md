@@ -46,6 +46,6 @@ Teaching Assistant
 
 Skills
 ======
-- Mathematics: Linear Algebra, Numerical Analysis, Differentiation Equations, Linear Systems.
+- Mathematics: Linear Algebra, Numerical Analysis, Differential Equations, Linear Systems.
 - Tools: FEM simulators, PyTorch, CUDA matrix solvers.
 - Languages: Mandarin Chinese, English.

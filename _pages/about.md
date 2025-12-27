@@ -44,8 +44,8 @@ Teaching Assistance
 - Discrete Mathematics for Engineers, ENGG2440A.
 - Single Variable Calculus for Engineers, ENGG1225G.
 
-Languages
+Skills
 ======
-- Mandarin Chinese: Native
-- English: Fluent
-- Cantonese: Novice
+- Mathematics: Linear Algebra, Numerical Analysis, PDEs, Linear Systems.
+- Tools: FEM simulators, PyTorch, CUDA matrix solvers.
+- Languages: Mandarin Chinese, English.

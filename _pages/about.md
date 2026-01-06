@@ -35,7 +35,7 @@ Academic Publications
 - [J1] C. Nie, Q. Xu\*, **C. Wang**, H. Cao, J. Liu, Z. Li, "Efficient transient thermal analysis of chiplet heterogeneous integration," ***Applied Thermal Engineering***, Jul 2023. Click [here](https://www.sciencedirect.com/science/article/abs/pii/S1359431123006385)
 
 **Conference Papers**:
-- [C3] Z. Wang, T. Hou, **C. Wang**, Z. Zhuang, T.-Y. Ho, F. Farnia, B. Yu, "FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis," ***DATE***, Apr 2026.
+- [C3] Z. Wang, T. Hou\*, **C. Wang**, Z. Zhuang, T.-Y. Ho, F. Farnia, B. Yu\*, "FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis," ***DATE***, Apr 2026.
 - [C2] **C. Wang**, Z. Zhuang\*, K. Zhu, D. Huang, L. Costero, R. Chen\*, D. Atienza, T.-Y. Ho, "ETLA-3D: Equivalent Thin Layer Aggregation based Thermal FEM for Hybrid Bonding F2F 3D ICs," ***DATE***, Apr 2026.
 - [C1] X. Ma, Q. Xu\*, Z. Sun, **C. Wang**, H. He, K. An, J. Liu, H. Cao, D. Zhang, T. Sun, Z. Li, "An Analytical Electrical-Thermal Coupling Model for TSV with Non-Uniform Substrate Temperature," ***ISEDA***, May 2025. Click [here](https://ieeexplore.ieee.org/document/11100728)
 

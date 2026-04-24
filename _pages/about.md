@@ -26,8 +26,8 @@ Work Experience
 Academic Publications
 ======
 **Conference Papers**:
-- [C3] Z. Wang, T. Hou, **C. Wang**, Z. Zhuang, T.-Y. Ho, F. Farnia, B. Yu, "FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis," ***DATE***, Apr 2026.
-- [C2] **C. Wang**, Z. Zhuang, K. Zhu, D. Huang, L. Costero, R. Chen, D. Atienza, T.-Y. Ho, "ETLA-3D: Equivalent Thin Layer Aggregation based Thermal FEM for Hybrid Bonding F2F 3D ICs," ***DATE***, Apr 2026.
+- [C3] Z. Wang, T. Hou, **C. Wang**, Z. Zhuang, T.-Y. Ho, F. Farnia, B. Yu, "FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis," ***DATE***, Apr 2026. [here](https://past.date-conference.com/proceedings-archive/2026/DATA/45.pdf)
+- [C2] **C. Wang**, Z. Zhuang, K. Zhu, D. Huang, L. Costero, R. Chen, D. Atienza, T.-Y. Ho, "ETLA-3D: Equivalent Thin Layer Aggregation based Thermal FEM for Hybrid Bonding F2F 3D ICs," ***DATE***, Apr 2026. Click [here](https://past.date-conference.com/proceedings-archive/2026/DATA/25.pdf)
 - [C1] X. Ma, Q. Xu, Z. Sun, **C. Wang**, H. He, K. An, J. Liu, H. Cao, D. Zhang, T. Sun, Z. Li, "An Analytical Electrical-Thermal Coupling Model for TSV with Non-Uniform Substrate Temperature," ***ISEDA***, May 2025. Click [here](https://ieeexplore.ieee.org/document/11100728)
 
 **Journal Papers**:
